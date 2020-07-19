@@ -29,7 +29,7 @@
   
       ,"page1": {
           "title": "About Me",
-          "content": "This is where you put the contents of your About page. Like all your pages, it’s in Markdown format. . This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
+          "content": ":white_check_mark: Add my picture . I’m Alex Johnstone. I made this site to help me learn and improve my understanding of analytical techniques. If you find it useful or have feedback please leave a comment or email me: alexjj@gmail.com. . Elsewhere . You can find me on my personal, albeit quiet, homepage, or on Github. . Using this site . This website is powered by fastpages. There are many static site generators, but this one integrates Jupyter notebooks so effortlessly that it seemed perfect for this blog. Perhaps if I was 100% R I might use blogdown. . At the end of each post is a comments section, it requires a Github account to use. If the page has been made from a jupyter notebook then the Colab, Binder and Github buttons at the top of the page allows you to see the real notebook and, in the case of Colab and Binder, interact with it. .",
           "url": "https://processda.com/about/",
           "relUrl": "/about/",
           "date": ""
